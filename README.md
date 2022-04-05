@@ -1,2 +1,9 @@
 # internship
-1
+
+## Segmentation
+
+## Object detection
+
+## Autoencoder
+
+## GAN
